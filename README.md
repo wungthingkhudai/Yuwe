@@ -1,5 +1,7 @@
 # Yuwe
 This page is a simple site for personal information, technologies used-JS, HTML, CSS.
+![Screenshot_26-10-2024_18029_www instagram com](https://github.com/user-attachments/assets/6f34738c-c8c5-415f-aa4d-feeb39df9157)
+
 Explanation:
 HTML (index.html):
 
